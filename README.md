@@ -7,7 +7,7 @@ In 2022 I decide to follow a course where to learn and deepen my knowledge to be
 I love play online 🎮, in particulary I play League of legends and Valorant, and collect LEGO.
 
 <div align=center>
-<h2>My knowledge</h2>
+<h2>My skills</h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
