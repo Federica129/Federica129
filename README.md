@@ -1,7 +1,7 @@
 <img src="./451497-flowers-pixel-art-trees-stars.jpg" />
 
 I am an italian girl who has decided to change her career path from SALES ASSISTANT to Front-end developer.<br>
-I studied my first self-taught languages (HTML - CSS) during the onset of covid in 2020 while more activities (also my recent job) were closed.<br>
+I studied my first self-taught languages (HTML - CSS) during the onset of covid in 2020 while many activities (also my recent job) were closed.<br>
 In 2022 I decide to follow a course where to learn and deepen my knowledge to be, a day, a FE developer.
 
 I love play online 🎮, in particulary I play League of legends and Valorant, and collect LEGO.
