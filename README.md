@@ -31,7 +31,11 @@ I love play online 🎮, in particulary I play League of legends and Valorant, a
   [![Federica129's GitHub stats](https://github-readme-stats.vercel.app/api?username=Federica129&show_icons=true&theme=radical&hide=contribs)](https://github.com/Federica129/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Federica129&layout=compact&theme=radical)](https://github.com/Federica129/github-readme-stats)
 
-  </div>
+[![](https://visitcount.itsvg.in/api?id=Federica129&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+
 
 <!--
 **Federica129/Federica129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
